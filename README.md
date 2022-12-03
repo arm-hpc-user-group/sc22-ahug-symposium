@@ -17,7 +17,7 @@ The finalized workshop agenda can be found at the [AHUG website](https://a-hug.o
 | Gilaid Shainer               | DPU  Computing - Addressing HPC/AI Performance Bottlenecks   | NVIDIA                             |                       |
 | Scott Wieland                | A  Performance Comparison of Common Open-source HPC Software on Graviton 3 | Rescale                            |         |
 | Eric Lequiniou               | Running  Altair's Radioss Commercial Solver at Scale on Arm  | Altair                             |   [Slides](https://github.com/arm-hpc-user-group/sc22-ahug-symposium/blob/53f01146b13504a99eb24db5e673ad85ead7b388/presentations/11-elequiniou-altair-arm-ahug-sc22.pdf)                    |
-| Dirk Pleiter                 | Using  gem5 for design space explorations                    | FZ  Juelich, KTH                   |                       |
+| Dirk Pleiter                 | Using  gem5 for design space explorations                    | FZ  Juelich, KTH                   |  [Slides](https://github.com/arm-hpc-user-group/sc22-ahug-symposium/blob/badaf347f03c99462d8c839e87b427907aeb67b7/presentations/12-dpleiter-gem5-design-ahug-sc22.pdf)                     |
 | Milos Puzovic and Ashok Bhat | Machine  Learning on Arm Servers                             | Arm                                |                       |
 | Craig Prunty                 | Update  from SiPearl                                         | SiPearl                            |                       |
 | David Lecomber               | Porting  intrinsics - real world observations and experiences from heavily-optimized  genomics codes | Arm |              |
