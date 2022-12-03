@@ -6,8 +6,8 @@ The finalized workshop agenda can be found at the [AHUG website](https://a-hug.o
 
 | Presenter | Talk Title | Organization | Slides (if available) |
 | ---------------------------------- | :------------: | ---------- | --------------------------------|
-| Jeffrey Young, Simon McIntosh-Smith | AHUG Introduction, Introduction of New Managing Director |	Georgia Tech, University of Bristol | |
-| Wael Elwasif | Early Application Experiences on a Modern GPU-Accelerated Arm-based HPC Platform | Oak Ridge National Laboratory | |
+| Jeffrey Young, Simon McIntosh-Smith | AHUG Introduction, Introduction of New Managing Director |	Georgia Tech, University of Bristol | [Slides](https://github.com/arm-hpc-user-group/sc22-ahug-symposium/blob/25292a858df2c994708c02b4d5d4171598638c76/presentations/01-jyoung-smcintoshsmith-ahug-intro.pdf)|
+| Wael Elwasif | Early Application Experiences on a Modern GPU-Accelerated Arm-based HPC Platform | Oak Ridge National Laboratory | [Slides](https://github.com/arm-hpc-user-group/sc22-ahug-symposium/blob/25292a858df2c994708c02b4d5d4171598638c76/presentations/02-wael-elwasif-application-experiences-arm-nvidia-devkit-ahug-sc2022.pdf) |
 | Marco Aldinucci              | Nvidia  dev kit (Arm+A100): from Federated Learning to HPC   | University  of Torino, Study       |                       |
 | Nikolay A Simakov            | Are  we ready for broader adoption of ARM in the HPC community: Benchmarks  and Applications on High-End ARM Systems with XDMoD Application Kernels| SUNY                               |                       |
 | Rene  Caspart                | First  experiences with an Arm-based HPC-testbed at NHR@KIT  | Karlsruhe  Institute of Technology |                       |
